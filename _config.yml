@@ -1,0 +1,28 @@
+name: Hazza Alkaabi
+favicon: null
+layout_spectrum: 0.48531342786736786
+typography_spectrum: 0.19584415154531598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5606514075770974
+  lightness: 0.600586594780907
+  saturation: 0.6631613203790039
+  rhythmicContrast: 0.8520918653812259
+purpose: []
